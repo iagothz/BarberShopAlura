@@ -2,6 +2,7 @@ body{
     background: #CCCCCC;
 }
 #banner{
+    margin: 40px;
     width: 100%;
 }
 h1{
