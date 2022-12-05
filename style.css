@@ -2,7 +2,6 @@ body{
     background: #CCCCCC;
 }
 #banner{
-    margin: 40px;
     width: 100%;
 }
 h1{
@@ -10,6 +9,12 @@ h1{
 }
 p{
     text-align: center;
+}
+h2{
+    text-align: center;
+}
+.lista{
+    font-style: italic;
 }
 #missao{
     font-size: 20px;
