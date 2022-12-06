@@ -1,0 +1,18 @@
+
+.header{
+    background: #BBBBBB;
+}
+.img_logo{
+    padding-left: 20px;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a{
+    text-transform: uppercase;
+    color:black;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 22px;
+}
